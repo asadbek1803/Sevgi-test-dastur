@@ -1,3 +1,2 @@
-Marjona + Asadbek = SEVGI
-Har doim birga bo'ling!
-Marjona bilan Asadbekning o'xshashlik darajasi 21%
+Ism + Ism = Sevgi 
+Bu yerga dasturdan chiqilgan ya'ni output narsalar yoziladi.
